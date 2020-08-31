@@ -12,4 +12,4 @@ Deployed on : https://whatsapp-clone-72de2.web.app/
 -updates last message on sidebar
 -updates last seen in chat header
 -take google profile pic and use it as a user profile for RoomChat App
-
+-
