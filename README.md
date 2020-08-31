@@ -1,6 +1,6 @@
 # Roomchat-App
 
-This is a RoomChat App build as an assignment for Zoomentum</br>
+This is a RoomChat App on which multi user can have a conversation in a room or in group build as an assignment for Zoomentum </br>
 Build with React.js + firebase</br>
 Deployed on : https://whatsapp-clone-72de2.web.app/</br>
 
@@ -13,3 +13,6 @@ Deployed on : https://whatsapp-clone-72de2.web.app/</br>
 -updates last seen in chat header </br>
 -fetch google profile pic and use it as a user profile for RoomChat App </br>
 
+
+-Main javascript and css files are provided 
+-firebase.js file has to be written by your self(having firebase config keys)
