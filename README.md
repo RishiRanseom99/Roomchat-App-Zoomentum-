@@ -1,8 +1,8 @@
 # Roomchat-App
 
-This is a RoomChat App build as an assignment for Zoomentum
-Build with React.js + firebase
-Deployed on : https://whatsapp-clone-72de2.web.app/
+This is a RoomChat App build as an assignment for Zoomentum</br>
+Build with React.js + firebase</br>
+Deployed on : https://whatsapp-clone-72de2.web.app/</br>
 
 
 -Primarily focused on UI
